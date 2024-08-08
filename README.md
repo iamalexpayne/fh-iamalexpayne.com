@@ -3,17 +3,18 @@
 
 This is my personal resume site, built using [SvelteKit](https://kit.svelte.dev/) and styled with [Tailwind CSS](https://tailwindcss.com/). The site is hosted on GitHub Pages using the [iamalexpayne.com](http://iamalexpayne.com) custom domain.
 
+
 ## Purpose
 
 The purpose of this site is to showcase my professional experience, skills, projects, and contact information. It is a static site generated with SvelteKit, making it fast and efficient to load.
 
-**Note:** The live version is hosted via GitHub Pages using the iamalexpayne.com custom domain. 
 
 ## Features
 
 - **SvelteKit**: Leveraging the power of SvelteKit for a modern and reactive web development experience.
 - **Tailwind CSS**: Custom styling with Tailwind CSS for a responsive and clean design.
 - **Static Site**: Deployed as a static site on GitHub Pages, ensuring fast load times and easy maintenance.
+
 
 ## Setup and Installation
 
@@ -63,10 +64,6 @@ npm run deploy
 # or
 yarn deploy
 ```
-
-## Customization
-
-Feel free to customize the site by editing the Svelte components in the `src` directory. Tailwind CSS can be used to modify the design and layout.
 
 ## License
 
