@@ -1,7 +1,7 @@
 
 # Personal Resume Site
 
-This repository contains the source code for my personal resume site, built using [SvelteKit](https://kit.svelte.dev/) and styled with [Tailwind CSS](https://tailwindcss.com/). The site is hosted on [GitHub Pages](https://pages.github.com/) using the [iamalexpayne.com](http://iamalexpayne.com) custom domain.
+This is my personal resume site, built using [SvelteKit](https://kit.svelte.dev/) and styled with [Tailwind CSS](https://tailwindcss.com/). The site is hosted on GitHub Pages using the [iamalexpayne.com](http://iamalexpayne.com) custom domain.
 
 ## Purpose
 
