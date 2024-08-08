@@ -25,15 +25,13 @@ The purpose of this site is to showcase my professional experience, skills, proj
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/iamalexpayne/iamalexpayne.github.io.git
+   cd iamalexpayne.github.io
    ```
 
 2. Install dependencies:
    ```bash
    npm install
-   # or
-   yarn install
    ```
 
 ### Development
@@ -41,8 +39,6 @@ The purpose of this site is to showcase my professional experience, skills, proj
 To start a development server with hot reloading:
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
 ### Building the Site
@@ -50,19 +46,8 @@ yarn dev
 To generate a static build of the site:
 ```bash
 npm run build
-# or
-yarn build
-```
-
-### Deploying to GitHub Pages
-
-You can deploy the site to GitHub Pages using the following command:
-```bash
-npm run deploy
-# or
-yarn deploy
 ```
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
