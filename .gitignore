@@ -1,3 +1,7 @@
+/venv
 /.sesskey
 /__pycache__
-/venv
+.DS_Store
+*.pyc
+*.pyo
+.vscode/
