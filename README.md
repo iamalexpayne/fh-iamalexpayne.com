@@ -3,6 +3,8 @@
 
 Welcome to my personal website and resume, built using the FastHTML framework. This site serves as a digital portfolio showcasing my professional background, skills, and accomplishments. It is designed to be lightweight, responsive, and easy to navigate.
 
+**Note:** The live version is hosted via GitHub Pages using the iamalexpayne.com custom domain. 
+
 ## Features
 
 - **Clean and Simple Design**: Focused on readability and ease of navigation.
