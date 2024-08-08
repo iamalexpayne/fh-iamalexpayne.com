@@ -22,16 +22,16 @@ To run this site locally, you'll need to set up a Python environment and install
 
 ### 1. Clone the Repository
 
-\`\`\`bash
+```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
-\`\`\`
+```
 
 ### 2. Set Up a Virtual Environment
 
-\`\`\`bash
+```bash
 python -m venv venv
-\`\`\`
+```
 
 ### 3. Activate the Virtual Environment
 
