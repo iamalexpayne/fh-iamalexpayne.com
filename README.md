@@ -36,25 +36,25 @@ python -m venv venv
 ### 3. Activate the Virtual Environment
 
 - **On Windows**:
-  \`\`\`bash
+  ```bash
   .\venv\Scripts\activate
-  \`\`\`
+  ```
 - **On macOS/Linux**:
-  \`\`\`bash
+  ```bash
   source venv/bin/activate
-  \`\`\`
+  ```
 
 ### 4. Install Dependencies
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### 5. Run the Application
 
-\`\`\`bash
+```bash
 python main.py
-\`\`\`
+```
 
 After running the above command, open your web browser and navigate to \`http://localhost:5001\` to view the site.
 
