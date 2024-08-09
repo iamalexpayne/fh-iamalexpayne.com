@@ -1,1 +1,0 @@
-import{f as p,s as a,a as i,t as m}from"../chunks/disclose-version.FPEv_wiP.js";import{s as f}from"../chunks/attributes.B8sQeY0B.js";import{b as h}from"../chunks/paths.DQcPSu1N.js";var n=m("<h1>Home</h1> <p>This is the home page of Alex</p> <a>About</a>",1);function g(r){var t=n(),e=p(t),o=a(a(e,!0)),s=a(a(o,!0));f(s,"href",`${h??""}/about`),i(r,t)}export{g as component};
