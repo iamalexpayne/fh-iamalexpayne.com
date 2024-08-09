@@ -1,6 +1,5 @@
 <script>
     import { page } from "$app/stores";
-    import { base } from "$app/paths";
 </script>
 
 <div class="flex flex-col items-center justify-center h-screen">
@@ -14,7 +13,7 @@
         <p class="text-sm pt-24">
             <span class="opacity-50"> Try going </span>
             <a
-                href={base}
+                href="/"
                 class="border-b border-olive hover:opacity-100 hover:border-b-2 hover:font-medium opacity-50"
                 >home</a
             >
