@@ -1,3 +1,3 @@
-import{f as s,s as a,a as m,t as u}from"../chunks/disclose-version.DMV4TKfw.js";import{s as p}from"../chunks/attributes.Cgq4tpxK.js";import{b as l}from"../chunks/paths.CPQJY9Kr.js";var n=u(`<h1>About</h1> <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa tenetur,
+import{f as s,s as a,a as m,t as u}from"../chunks/disclose-version.DMV4TKfw.js";import{s as p}from"../chunks/attributes.Cgq4tpxK.js";import{b as l}from"../chunks/paths.B-hLyANU.js";var n=u(`<h1>About</h1> <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa tenetur,
     numquam corrupti iure qui animi illo quaerat aperiam atque culpa, ut debitis
     dolore sit autem reprehenderit dolorum aliquid dignissimos nemo?</p> <a>Home</a> <img src="alex.jpg" alt="alex's profile" class="w-32 h-32 rounded-2xl">`,1);function g(t){var e=n(),i=s(e),o=a(a(i,!0)),r=a(a(o,!0));p(r,"href",`${l??""}/`),a(a(r,!0)),m(t,e)}export{g as component};
