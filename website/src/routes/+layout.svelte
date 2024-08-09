@@ -2,4 +2,6 @@
     import "../app.css";
 </script>
 
-<slot />
+<div class="bg-beige flex-grow p-8">
+    <slot />
+</div>

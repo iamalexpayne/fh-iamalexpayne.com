@@ -1,1 +1,0 @@
-import{f as e,s as t,a as n,t as p}from"../chunks/disclose-version.FPEv_wiP.js";var s=p("<h1>404</h1> <p>Page not found.</p>",1);function i(o){var a=s(),r=e(a);t(t(r,!0)),n(o,a)}export{i as component};

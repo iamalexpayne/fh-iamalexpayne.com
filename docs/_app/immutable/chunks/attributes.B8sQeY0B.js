@@ -1,1 +1,0 @@
-import{h as o}from"./disclose-version.FPEv_wiP.js";function g(r,i,s,t){s=s==null?null:s+"";var f=r.__attributes??(r.__attributes={});if(o){f[i]=r.getAttribute(i);return}f[i]!==(f[i]=s)&&(s===null?r.removeAttribute(i):r.setAttribute(i,s))}export{g as s};

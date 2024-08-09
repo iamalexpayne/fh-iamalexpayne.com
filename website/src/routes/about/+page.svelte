@@ -9,3 +9,4 @@
     dolore sit autem reprehenderit dolorum aliquid dignissimos nemo?
 </p>
 <a href="{base}/">Home</a>
+<img src="alex.jpg" alt="alex's profile" class="w-32 h-32 rounded-2xl" />
