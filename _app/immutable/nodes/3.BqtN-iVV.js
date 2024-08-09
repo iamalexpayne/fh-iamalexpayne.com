@@ -1,3 +1,0 @@
-import{h as u,f as p,s,a as e,t as n}from"../chunks/disclose-version.DMV4TKfw.js";import{b as m}from"../chunks/paths.Djrq7nBn.js";function d(i,r,a,o){a=a==null?null:a+"";var t=i.__attributes??(i.__attributes={});if(u){t[r]=i.getAttribute(r);return}t[r]!==(t[r]=a)&&(a===null?i.removeAttribute(r):i.setAttribute(r,a))}var f=n(`<h1>About</h1> <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa tenetur,
-    numquam corrupti iure qui animi illo quaerat aperiam atque culpa, ut debitis
-    dolore sit autem reprehenderit dolorum aliquid dignissimos nemo?</p> <a>Home</a> <img src="alex.jpg" alt="alex's profile" class="w-32 h-32 rounded-2xl">`,1);function g(i){var r=f(),a=p(r),o=s(s(a,!0)),t=s(s(o,!0));d(t,"href",`${m??""}/`),s(s(t,!0)),e(i,r)}export{g as component};
